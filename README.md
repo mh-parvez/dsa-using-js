@@ -3,5 +3,7 @@
 2. ![Objects](object)
 3. ![DataTypes](dataTypes)
 4. ![Functions](functions)
+5. ![Prototype, Inheritance](prototype)
+6. ![Class](class)
 
 
