@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
-1. ![Fundamental](fundamentals)
-2. ![Object](object)
-3. ![DataType](dataTypes)
+1. ![Fundamentals](fundamentals)
+2. ![Objects](object)
+3. ![DataTypes](dataTypes)
 
 
