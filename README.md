@@ -1,4 +1,4 @@
-| **Structures** | **Algorithms** | **Pattern** | **Principles** | **Paradigms** |
-|---------------:|----------------|-------------|----------------|---------------|
-| Array          | Sorting        |             |                |               |
-| String         | Searching      |             |                |               |
+## Data Structures and Algorithms
+- Array
+- String
+- 
