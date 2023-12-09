@@ -1,8 +1,10 @@
-## (A) Data Structure
+## Data Structure 🔗
 1. 
 
-## (B) Algorithms
-1. 
 
-## (C) Paradigms, Pattern, Principles
+## Algorithms 🔗
+1.
+
+
+## Paradigms, Pattern, Principles 🔗
 1.
