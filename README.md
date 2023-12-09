@@ -1,10 +1,4 @@
-### Data Structure
-1. 
-
-
-### Algorithms
-1.
-
-
-### Paradigms, Pattern, Principles
-1.
+| **Structures** | **Algorithms** | **Pattern** | **Principles** | **Paradigms** |
+|---------------:|----------------|-------------|----------------|---------------|
+| Array          | Sorting        |             |                |               |
+| String         | Searching      |             |                |               |
