@@ -23,7 +23,6 @@
 - Recursion
 - Backtracking
 - Sliding Window
-- Pattern-Searching
-- Dynamic-Programming
+- Pattern Searching
+- Dynamic Programming
 - Puzzles
-- Upcoming...
