@@ -1,8 +1,8 @@
-## Structures
-- Array
+## 🧩 Structures
+- Arrays
 - Matrix
 - Strings
-- Linked List
+- Linked-List
 - Stack
 - Queue
 - Tree
@@ -12,18 +12,18 @@
 - Set
 - Map
 - Tries
-## Algorithms
+
+## 👨🏻‍💻 Algorithms
 - Search
 - Sorting
 - Greedy
+- Bitwise
+- Math Algo 
+- Two Pointer
 - Recursion
 - Backtracking
-- Pattern Searching
-- Dynamic Programming
-- Bitwise
-- Math
-- Two Pointer
 - Sliding Window
-- AdHoc
+- Pattern-Searching
+- Dynamic-Programming
 - Puzzles
-- Upcoming more...
+- Upcoming...
