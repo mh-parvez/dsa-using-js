@@ -2,4 +2,5 @@
 - Arrays
 
 ## 👨🏻‍💻 Algorithms
+- (Pattern)[#]
 - Search
