@@ -2,5 +2,5 @@
 - Arrays
 
 ## 👨🏻‍💻 Algorithms
-- (Pattern)[#]
+- [Pattern](Chapter-00-Pattern-and-Basics)
 - Search
