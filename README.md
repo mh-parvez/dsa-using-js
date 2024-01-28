@@ -1,5 +1,5 @@
 ## 🥋 JavaScript
-- Fundamentals
+- [Fundamentals](Chapter-01-Fundamentals)
 
 ## 🧩 Structures
 - Arrays
