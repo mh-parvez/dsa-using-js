@@ -8,6 +8,7 @@
 - [How JS Wroks](Chapter-05-How-JS-Works)
 - [Web Workers API (handle cpu intensive tasks)](Chapter-06-Web-Workers-API)
 - [Async Iterator and Generator](Chapter-07-Async-Iterator-and-Generator)
+- [DOM Tree](Chapter-08-DOM-Tree)
 
 ## 🧩 Structures
 - Array
