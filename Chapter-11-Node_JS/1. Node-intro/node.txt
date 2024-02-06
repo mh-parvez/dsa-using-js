@@ -1,0 +1,8 @@
+
+// node.js is javascript runtime (using c++)
+
+// LTS means Long Tearm Support, we can use it produciton also.
+// Current means new realse version / beta, we can use it for testing but not produciton.
+
+// ood, even approch, 18.12.01 version means LTS and 19.04.2 means beta version. 
+

@@ -1,0 +1,65 @@
+Understanding URLs: Unraveling the Web Address
+
+The Universal Resource Locator, or URL, is the backbone of how we access content on the internet. It's more than just a web address; it's a structured representation that allows us to pinpoint and access resources on the World Wide Web. Let's delve into the components and intricacies of URLs.
+What is a URL?
+
+At its core, a URL is a reference or an address used to locate resources on the internet. These resources can be web pages, images, documents, APIs, or any file hosted on a server accessible via the web.
+Anatomy of a URL
+
+A URL is typically composed of several parts, each serving a specific purpose:
+1. Scheme
+
+The scheme defines the protocol used to access the resource. Common schemes include http, https, ftp, mailto, and file.
+2. Host
+
+The host specifies the domain name or IP address of the server hosting the resource.
+3. Port (optional)
+
+This element denotes the specific communication endpoint on the server. Common HTTP traffic uses port 80, while HTTPS uses port 443. It's often implicit and defaults to these ports if not specified.
+4. Path
+
+The path points to the specific location or resource on the server.
+5. Query Parameters (optional)
+
+Query parameters follow a ? in the URL and provide additional information to the server. They're typically in the form of key-value pairs and used for dynamic content retrieval.
+6. Fragment (optional)
+
+The fragment identifier, preceded by #, refers to a specific section within the resource itself, like a section of an HTML document.
+Examples
+
+Let's break down a URL to understand its structure better:
+
+🧩 https://www.example.com:8080/products/electronics?id=123#overview
+|   scheme    |   host     | port |      path      | query |   fragment  |
+
+◼ Scheme: https
+◼ Host: www.example.com
+◼ Port: 8080 (non-standard port)
+◼ Path: /products/electronics
+◼ Query Parameter: id=123
+◼ Fragment: overview
+
+
+
+🧩 https://www.youtube.com/watch?v=Nt
+
+http, ws, tcp etc are protocols (set of role for communications server to another)
+
+◼ 'https' (hypertext transfer protocol secoure) - is a protocol (with SSL certifict)
+◼ 'www.youtube.com' - Domin (user friendly name of IP address of my server)
+◼ '/' - root or home path
+◼ '/about' - path
+◼ '/about/user/678' - nested path
+◼ 'www.youtube.com/about/user?userid=112333&a=2' - queryString or queryParameter
+◼ 'www.youtube.com/seach?q=js+interview+live' - puls means space
+
+
+Usage in Web Development
+
+Understanding URLs is fundamental for web developers. They are the gateway for accessing and sharing resources across the internet. Developers work with URLs extensively when:
+
++ Building websites or web applications
++ Handling routing and navigation within applications
++ Fetching data from APIs using HTTP requests
++ Implementing SEO strategies by crafting meaningful URLs
+
