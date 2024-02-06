@@ -12,6 +12,7 @@
 - [Event](Chapter-09-Events)
 - [TypeScript](Chapter-10-TypeScript)
 - [Node.JS](Chapter-11-Node_JS)
+- [Worker Thread (handle cpu intensive tasks)](Chapter-12-Worker-Threads)
 
 ## Structures
 - Array
