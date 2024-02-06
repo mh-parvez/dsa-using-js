@@ -10,6 +10,7 @@
 - [Async Iterator and Generator](Chapter-07-Async-Iterator-and-Generator)
 - [DOM Tree](Chapter-08-DOM-Tree)
 - [Event](Chapter-09-Events)
+- [TypeScript](Chapter-10-TypeScript)
 
 ## Structures
 - Array
