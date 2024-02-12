@@ -19,3 +19,4 @@
 
 ## Algorithms
 - [Pattern](Chapter-00-Pattern-and-Basics)
+- [Sorting](Chapter-14-Sorting)
