@@ -14,6 +14,6 @@
 - [Node.JS](Chapter-11-Node_JS)
 - [Worker Thread (handle cpu intensive tasks)](Chapter-12-Worker-Threads)
 
-## Algorithms
+## Algorithm
 - [Pattern](Chapter-00-Pattern-and-Basics)
 - [Sorting](Chapter-14-Sorting)
