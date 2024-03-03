@@ -1,4 +1,4 @@
-# Complete Programming Guide
+# Complete JavaScript Guide
 
 ## JavaScript
 - [Fundamentals](Chapter-01-Fundamentals)
@@ -13,9 +13,6 @@
 - [TypeScript](Chapter-10-TypeScript)
 - [Node.JS](Chapter-11-Node_JS)
 - [Worker Thread (handle cpu intensive tasks)](Chapter-12-Worker-Threads)
-
-## Structures
-- Array
 
 ## Algorithms
 - [Pattern](Chapter-00-Pattern-and-Basics)
